@@ -1,0 +1,11 @@
+---
+slug: :dm_detail_view
+depends:
+  mikutter: 3.5.0-develop
+  plugin:
+  - gui
+  - gtk
+version: '1.0'
+author: toshi_a
+name: Direct Messageを開く
+description: DMの詳細を開くコマンドとイベントを提供し、そのタブを拡張する手段を提供します
